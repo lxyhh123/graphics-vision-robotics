@@ -23,3 +23,10 @@ python -m venv .venv
 ```
 
 E4 提供学生代码骨架。按指导书完成 `icp` 与 `voxel_fuse` 后，再执行 E4 的批量对照命令。
+
+## ROS 与课程资源
+
+- [TurtleBot3 Gazebo 配置及观测实验](docs/gazebo.md)
+- [ROS 2 激光扫描观测功能包](ros2_ws/src/course_scan_tools)
+- [标准数据集下载与教学样例](datasets/README.md)
+- [学生作品分享与提交](projects/README.md)
